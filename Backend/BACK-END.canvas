@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"b483b1372bb88863","type":"text","text":"BACK-END ","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"a93b3c062fdc327b","type":"file","file":"IMAGES/PHP.png","x":220,"y":160,"width":172,"height":93},
+		{"id":"66be50d46ea0e6e4","type":"text","text":"FRAME-WORK","x":221,"y":320,"width":171,"height":50},
+		{"id":"7f60d01ae3ff3ac6","type":"file","file":"IMAGES/Pasted image 20260729111818.png","x":420,"y":440,"width":174,"height":87}
+	],
+	"edges":[
+		{"id":"209cba9ff0c62b9e","fromNode":"b483b1372bb88863","fromSide":"bottom","toNode":"a93b3c062fdc327b","toSide":"top"},
+		{"id":"f965addae87d5abe","fromNode":"a93b3c062fdc327b","fromSide":"bottom","toNode":"66be50d46ea0e6e4","toSide":"top"},
+		{"id":"42181ef87699f17a","fromNode":"66be50d46ea0e6e4","fromSide":"bottom","toNode":"7f60d01ae3ff3ac6","toSide":"left"}
+	]
+}

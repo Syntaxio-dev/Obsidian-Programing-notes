@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"94c25ce259405f7b","type":"text","text":"GIT HUB","x":140,"y":-200,"width":250,"height":60},
+		{"id":"02483726ce25b333","type":"text","text":"GIT","x":-360,"y":-200,"width":250,"height":60},
+		{"id":"a513e3b581638f7f","type":"text","text":"      GIT AND GIT HUB ","x":-110,"y":-440,"width":250,"height":60},
+		{"id":"a569a9211e2cdc73","x":65,"y":-20,"width":400,"height":400,"type":"file","file":"Git and Git HUB/Git hub.md"}
+	],
+	"edges":[
+		{"id":"b1f9351adf18d746","fromNode":"a513e3b581638f7f","fromSide":"bottom","toNode":"02483726ce25b333","toSide":"top"},
+		{"id":"64009ae2ee6e19e2","fromNode":"a513e3b581638f7f","fromSide":"bottom","toNode":"94c25ce259405f7b","toSide":"top"},
+		{"id":"20a07341ba20127d","fromNode":"94c25ce259405f7b","fromSide":"bottom","toNode":"a569a9211e2cdc73","toSide":"top"}
+	]
+}

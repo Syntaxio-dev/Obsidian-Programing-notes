@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "cd27bd79acc82a9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "68fe7f143b58ef1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59ed44dc2a197648",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Backend/BACK-END.canvas",
+                "viewState": {
+                  "x": 234.5,
+                  "y": 341.5,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "BACK-END"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f81135f084381b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f879ad73a56f043",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13fb92bd2a9b338e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9bba70e90a33c3a7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "02c2415419cfe134",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7917249e66043898",
+    "type": "split",
+    "children": [
+      {
+        "id": "376ac011e5cc373c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b43a99f100287673",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Backend/BACK-END.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for BACK-END"
+            }
+          },
+          {
+            "id": "b0686a7da329cb22",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Backend/BACK-END.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from BACK-END"
+            }
+          },
+          {
+            "id": "bc7037a07cd0e68d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e9779a487982d52a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d24ad817cfba4aaf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Backend/BACK-END.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of BACK-END"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "59ed44dc2a197648",
+  "lastOpenFiles": [
+    "Backend/BACK-END.canvas",
+    "IMAGES",
+    "IMAGES/Pasted image 20260729111818.png",
+    "IMAGES/PHP.png",
+    "Pasted image 20260729110950.png",
+    "Backend/Backend learning's.md",
+    "Git and Git HUB/Git hub.md",
+    "Git and Git HUB/GIT graph.canvas",
+    "Backend/Laravel php framework/Laravel (PHP Frame work for web applications ).md",
+    "Untitled.canvas",
+    "Untitled.md",
+    "Backend/PHP vanila/PHP Core Notes.md",
+    "Backend/Backend notes.md",
+    "Backend/PHP vanila/PHP notes core.md",
+    "Untitled.base",
+    "Git and Git HUB",
+    "Frontend/Java script/Java script notes.md",
+    "Backend",
+    "Frontend",
+    "Frontend/Java script/React",
+    "Frontend/Java script/Jquery",
+    "Backend/Laravel php framework",
+    "Backend/PHP vanila",
+    "Frontend/Java script",
+    "Welcome.md"
+  ]
+}
