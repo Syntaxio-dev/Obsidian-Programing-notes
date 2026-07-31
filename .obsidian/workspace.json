@@ -15,9 +15,9 @@
               "state": {
                 "file": "Backend/BACK-END.canvas",
                 "viewState": {
-                  "x": 234.5,
-                  "y": 341.5,
-                  "zoom": 0
+                  "x": -723.1709748302383,
+                  "y": 388.98161849907945,
+                  "zoom": -1.496246004820535
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7917249e66043898",
@@ -188,14 +189,21 @@
   },
   "active": "59ed44dc2a197648",
   "lastOpenFiles": [
+    "IMAGES/Mongo DB.jpg",
+    "IMAGES/PostgreSQL.jpg",
+    "IMAGES/MYSQL.jpg",
     "Backend/BACK-END.canvas",
+    "IMAGES/laravel.png",
+    "Git and Git HUB/GIT graph.canvas",
+    "IMAGES/React js.png",
+    "IMAGES/Java Script.png",
+    "IMAGES/Bootstarap.jpg",
+    "IMAGES/taiwind css.png",
+    "IMAGES/CSS.png",
+    "IMAGES/HTML.png",
     "IMAGES",
-    "IMAGES/Pasted image 20260729111818.png",
-    "IMAGES/PHP.png",
-    "Pasted image 20260729110950.png",
     "Backend/Backend learning's.md",
     "Git and Git HUB/Git hub.md",
-    "Git and Git HUB/GIT graph.canvas",
     "Backend/Laravel php framework/Laravel (PHP Frame work for web applications ).md",
     "Untitled.canvas",
     "Untitled.md",
