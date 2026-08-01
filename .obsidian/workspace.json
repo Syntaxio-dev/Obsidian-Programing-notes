@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Backend/BACK-END.canvas",
+                "file": "Programing-Tree.canvas",
                 "viewState": {
-                  "x": -723.1709748302383,
-                  "y": 388.98161849907945,
-                  "zoom": -1.496246004820535
+                  "x": -20.904112512656127,
+                  "y": -439.03884142661923,
+                  "zoom": -0.6629126714872018
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "BACK-END"
+              "title": "Programing-Tree"
             }
           }
         ]
@@ -44,7 +44,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -81,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "7917249e66043898",
@@ -189,12 +190,16 @@
   },
   "active": "59ed44dc2a197648",
   "lastOpenFiles": [
+    "Backend/PHP vanila/PHP - Topics to covers.md",
+    "Backend/PHP vanila/Topic-wise notes",
+    "Git and Git HUB/Git hub.md",
+    "Git and Git HUB/GIT graph.canvas",
+    "Backend/Laravel php framework/Laravel (PHP Frame work for web applications ).md",
+    "Programing-Tree.canvas",
     "IMAGES/Mongo DB.jpg",
     "IMAGES/PostgreSQL.jpg",
     "IMAGES/MYSQL.jpg",
-    "Backend/BACK-END.canvas",
     "IMAGES/laravel.png",
-    "Git and Git HUB/GIT graph.canvas",
     "IMAGES/React js.png",
     "IMAGES/Java Script.png",
     "IMAGES/Bootstarap.jpg",
@@ -203,11 +208,8 @@
     "IMAGES/HTML.png",
     "IMAGES",
     "Backend/Backend learning's.md",
-    "Git and Git HUB/Git hub.md",
-    "Backend/Laravel php framework/Laravel (PHP Frame work for web applications ).md",
     "Untitled.canvas",
     "Untitled.md",
-    "Backend/PHP vanila/PHP Core Notes.md",
     "Backend/Backend notes.md",
     "Backend/PHP vanila/PHP notes core.md",
     "Untitled.base",
@@ -219,7 +221,6 @@
     "Frontend/Java script/Jquery",
     "Backend/Laravel php framework",
     "Backend/PHP vanila",
-    "Frontend/Java script",
     "Welcome.md"
   ]
 }

@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"b483b1372bb88863","type":"text","text":"BACK-END ","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"b483b1372bb88863","type":"text","text":"### Back-End","x":-125,"y":-30,"width":145,"height":60},
 		{"id":"c714ea9c703174c0","type":"text","text":"languages/topics to learn","x":-1280,"y":140,"width":250,"height":60},
 		{"id":"2ca87984ebeed4a7","type":"file","file":"IMAGES/CSS.png","x":-1523,"y":300,"width":73,"height":103},
 		{"id":"1075354daddc4912","type":"file","file":"IMAGES/Bootstarap.jpg","x":-1900,"y":460,"width":108,"height":86},
@@ -20,8 +20,8 @@
 		{"id":"66be50d46ea0e6e4","type":"text","text":"FRAME-WORK","x":-857,"y":844,"width":171,"height":50},
 		{"id":"a93b3c062fdc327b","type":"file","file":"IMAGES/PHP.png","x":-860,"y":660,"width":172,"height":93},
 		{"id":"e125c344ac0cfc22","type":"text","text":"# PROGRAMING","x":-540,"y":-320,"width":220,"height":60},
-		{"id":"c1ea38ef5addc9ce","x":-1085,"y":-400,"width":250,"height":60,"type":"text","text":"## CS Fundamentals"},
-		{"id":"e9712166c24ea0f3","type":"text","text":"Front-end ","x":-960,"y":-30,"width":250,"height":60},
+		{"id":"c1ea38ef5addc9ce","type":"text","text":"## CS Fundamentals","x":-1085,"y":-400,"width":250,"height":60},
+		{"id":"e9712166c24ea0f3","type":"text","text":"### Front-End","x":-960,"y":-30,"width":160,"height":60},
 		{"id":"b49782259179aaa7","type":"text","text":"#### DBMS","x":-1540,"y":-560,"width":106,"height":60},
 		{"id":"830c5141de067c08","type":"text","text":"#### Operating System","x":-1620,"y":-400,"width":200,"height":60}
 	],
