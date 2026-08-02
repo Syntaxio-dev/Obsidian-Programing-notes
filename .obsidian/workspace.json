@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "68fe7f143b58ef1b",
+        "id": "367842358cff76cb",
         "type": "tabs",
         "children": [
           {
-            "id": "59ed44dc2a197648",
+            "id": "94b0301828a67fd8",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Backend/BACK-END.canvas",
-                "viewState": {
-                  "x": -723.1709748302383,
-                  "y": 388.98161849907945,
-                  "zoom": -1.496246004820535
-                }
+                "file": "Backend/Laravel php framework/Laravel (PHP Frame work for web applications ).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "BACK-END"
+              "icon": "lucide-file",
+              "title": "Laravel (PHP Frame work for web applications )"
             }
           }
         ]
@@ -44,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -81,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "7917249e66043898",
@@ -187,12 +185,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "59ed44dc2a197648",
+  "active": "94b0301828a67fd8",
   "lastOpenFiles": [
+    "Backend/PHP vanila/PHP - Topics to Cover.md",
+    "Programing-Graph.canvas",
+    "Frontend/Java script/Java script notes.md",
+    "Backend/Laravel php framework/Laravel (PHP Frame work for web applications ).md",
+    "SEM 3/Welcome.md",
+    "SEM 3/Untitled.canvas",
+    "SEM 3",
+    "Deployment",
     "IMAGES/Mongo DB.jpg",
     "IMAGES/PostgreSQL.jpg",
     "IMAGES/MYSQL.jpg",
-    "Backend/BACK-END.canvas",
     "IMAGES/laravel.png",
     "Git and Git HUB/GIT graph.canvas",
     "IMAGES/React js.png",
@@ -204,22 +209,17 @@
     "IMAGES",
     "Backend/Backend learning's.md",
     "Git and Git HUB/Git hub.md",
-    "Backend/Laravel php framework/Laravel (PHP Frame work for web applications ).md",
     "Untitled.canvas",
     "Untitled.md",
-    "Backend/PHP vanila/PHP Core Notes.md",
     "Backend/Backend notes.md",
     "Backend/PHP vanila/PHP notes core.md",
     "Untitled.base",
     "Git and Git HUB",
-    "Frontend/Java script/Java script notes.md",
     "Backend",
     "Frontend",
     "Frontend/Java script/React",
     "Frontend/Java script/Jquery",
     "Backend/Laravel php framework",
-    "Backend/PHP vanila",
-    "Frontend/Java script",
     "Welcome.md"
   ]
 }

@@ -20,10 +20,12 @@
 		{"id":"66be50d46ea0e6e4","type":"text","text":"FRAME-WORK","x":-857,"y":844,"width":171,"height":50},
 		{"id":"a93b3c062fdc327b","type":"file","file":"IMAGES/PHP.png","x":-860,"y":660,"width":172,"height":93},
 		{"id":"e125c344ac0cfc22","type":"text","text":"# PROGRAMING","x":-540,"y":-320,"width":220,"height":60},
-		{"id":"c1ea38ef5addc9ce","x":-1085,"y":-400,"width":250,"height":60,"type":"text","text":"## CS Fundamentals"},
+		{"id":"c1ea38ef5addc9ce","type":"text","text":"## CS Fundamentals","x":-1085,"y":-400,"width":250,"height":60},
 		{"id":"e9712166c24ea0f3","type":"text","text":"Front-end ","x":-960,"y":-30,"width":250,"height":60},
 		{"id":"b49782259179aaa7","type":"text","text":"#### DBMS","x":-1540,"y":-560,"width":106,"height":60},
-		{"id":"830c5141de067c08","type":"text","text":"#### Operating System","x":-1620,"y":-400,"width":200,"height":60}
+		{"id":"830c5141de067c08","type":"text","text":"#### Operating System","x":-1634,"y":-680,"width":200,"height":60},
+		{"id":"5bb7a681f5f4116f","type":"text","text":"#### Software enginering","x":-1668,"y":-430,"width":234,"height":60},
+		{"id":"d70ba9e2d28ca4b7","x":429,"y":-924,"width":111,"height":60,"type":"text","text":"### Tools"}
 	],
 	"edges":[
 		{"id":"f965addae87d5abe","fromNode":"a93b3c062fdc327b","fromSide":"bottom","toNode":"66be50d46ea0e6e4","toSide":"top"},
@@ -51,6 +53,8 @@
 		{"id":"f898671fe95bd9e3","fromNode":"0960ed706f9b9798","fromSide":"bottom","toNode":"b1de11e04787232b","toSide":"top"},
 		{"id":"399f5f4646ae9ad6","fromNode":"e125c344ac0cfc22","fromSide":"left","toNode":"c1ea38ef5addc9ce","toSide":"right"},
 		{"id":"4cc6fc52da176212","fromNode":"c1ea38ef5addc9ce","fromSide":"left","toNode":"830c5141de067c08","toSide":"right"},
-		{"id":"4ac23874ef2fbaea","fromNode":"c1ea38ef5addc9ce","fromSide":"left","toNode":"b49782259179aaa7","toSide":"right"}
+		{"id":"4ac23874ef2fbaea","fromNode":"c1ea38ef5addc9ce","fromSide":"left","toNode":"b49782259179aaa7","toSide":"right"},
+		{"id":"b30efe05a1f4318f","fromNode":"c1ea38ef5addc9ce","fromSide":"left","toNode":"5bb7a681f5f4116f","toSide":"right"},
+		{"id":"ad42232f22994498","fromNode":"e125c344ac0cfc22","fromSide":"right","toNode":"d70ba9e2d28ca4b7","toSide":"left"}
 	]
 }
