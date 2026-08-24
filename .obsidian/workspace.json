@@ -11,14 +11,10 @@
             "id": "94b0301828a67fd8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backend/Laravel php framework/Laravel (PHP Frame work for web applications ).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Laravel (PHP Frame work for web applications )"
+              "title": "New tab"
             }
           }
         ]
@@ -166,13 +162,23 @@
               "icon": "lucide-list",
               "title": "Outline of BACK-END"
             }
+          },
+          {
+            "id": "43ca633eb7373414",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,15 +188,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "94b0301828a67fd8",
+  "active": "13fb92bd2a9b338e",
   "lastOpenFiles": [
-    "Backend/PHP vanila/PHP - Topics to Cover.md",
     "Programing-Graph.canvas",
-    "Frontend/Java script/Java script notes.md",
+    "Git and Git HUB/GIT graph.canvas",
+    "Backend/PHP vanila/PHP - Topics to covers.md",
+    "Backend/PHP vanila/PHP - Topics to Cover.md",
     "Backend/Laravel php framework/Laravel (PHP Frame work for web applications ).md",
+    "IMAGES/Bootstarap.jpg",
+    "IMAGES/CSS.png",
+    "Frontend/Java script/Java script notes.md",
     "SEM 3/Welcome.md",
     "SEM 3/Untitled.canvas",
     "SEM 3",
@@ -199,12 +210,9 @@
     "IMAGES/PostgreSQL.jpg",
     "IMAGES/MYSQL.jpg",
     "IMAGES/laravel.png",
-    "Git and Git HUB/GIT graph.canvas",
     "IMAGES/React js.png",
     "IMAGES/Java Script.png",
-    "IMAGES/Bootstarap.jpg",
     "IMAGES/taiwind css.png",
-    "IMAGES/CSS.png",
     "IMAGES/HTML.png",
     "IMAGES",
     "Backend/Backend learning's.md",
